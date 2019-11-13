@@ -1,0 +1,4060 @@
+Resultados da prova: 1
+
+Prova do aluno de registro: 0001
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0002
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 0011
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 0012
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0013
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0014
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0015
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0018
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0021
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0022
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0023
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0024
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0026
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0027
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0028
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0029
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0031
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0033
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0036
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0038
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0041
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0048
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0049
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0050
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0053
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0054
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0055
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0056
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0057
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 0059
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0062
+18 questões corretas, 42 questões incorretas e  0 questões em branco.
+Nota: 36
+
+Prova do aluno de registro: 0066
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0068
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0071
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0072
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0075
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0077
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0079
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 0080
+11 questões corretas, 39 questões incorretas e 10 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0082
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0084
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0086
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0090
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0094
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0096
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0098
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0100
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0101
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 0102
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0106
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0108
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0109
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0110
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0111
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0115
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0116
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0117
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0118
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 0121
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0123
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0124
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0125
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0131
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 0132
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0134
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0135
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0137
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0138
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0140
+18 questões corretas, 42 questões incorretas e  0 questões em branco.
+Nota: 36
+
+Prova do aluno de registro: 0141
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0142
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0143
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0144
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0145
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0146
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 0147
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 0149
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0156
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0157
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0160
+10 questões corretas, 45 questões incorretas e  5 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0164
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0165
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0167
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0168
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0173
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0177
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 0178
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 0180
+11 questões corretas, 39 questões incorretas e 10 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0182
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0183
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 0185
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0189
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0191
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0197
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0199
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0200
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0201
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0203
+19 questões corretas, 41 questões incorretas e  0 questões em branco.
+Nota: 38
+
+Prova do aluno de registro: 0204
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0205
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 0206
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0207
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0213
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0214
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0217
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 0219
+21 questões corretas, 39 questões incorretas e  0 questões em branco.
+Nota: 42
+
+Prova do aluno de registro: 0221
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0225
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0226
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0229
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 0230
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0232
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0233
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0235
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0236
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 0238
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0241
+18 questões corretas, 42 questões incorretas e  0 questões em branco.
+Nota: 36
+
+Prova do aluno de registro: 0243
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0244
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0245
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 0246
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0247
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0251
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0252
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0253
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0254
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0255
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0256
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 0257
+18 questões corretas, 42 questões incorretas e  0 questões em branco.
+Nota: 36
+
+Prova do aluno de registro: 0260
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0264
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0271
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0272
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0274
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0275
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0276
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0278
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0279
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0281
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0282
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0283
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0285
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 0286
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0287
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0289
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0290
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0294
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0295
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0297
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 0298
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0299
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 0301
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0302
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0303
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0307
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0308
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0311
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0312
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 0316
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0318
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0319
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 0320
+10 questões corretas, 43 questões incorretas e  7 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0321
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0322
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0323
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0325
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0328
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 0329
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0331
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0332
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 0333
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 0334
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0335
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0337
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0339
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0343
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0350
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 0355
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0356
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0359
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0360
+12 questões corretas, 41 questões incorretas e  7 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0362
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0363
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 0365
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0366
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0367
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0368
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0369
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 0370
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0371
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0373
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0376
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0378
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0379
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0384
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0385
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0388
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0389
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0390
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0391
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0394
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0395
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0400
+12 questões corretas, 39 questões incorretas e  9 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0401
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0406
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0407
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 0408
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0410
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0413
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0423
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0425
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0430
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0431
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0433
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0435
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0438
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 0440
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0444
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0452
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 0454
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 0455
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0457
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0463
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 0467
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0468
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0470
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0471
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0473
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0474
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0475
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 0476
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0479
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 0481
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0483
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0484
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0485
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0486
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0487
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0488
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 0489
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0490
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0492
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0495
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0497
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0500
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0501
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0502
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0503
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0504
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0505
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0509
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 0511
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0512
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 0513
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0514
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0516
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0517
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0519
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 0520
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 0521
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0523
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0524
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0526
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0528
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 0529
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0530
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0533
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0536
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0538
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 0539
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0541
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0542
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0545
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0548
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0552
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0554
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0556
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 0557
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0558
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0559
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0561
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0563
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 0567
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0569
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0572
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0573
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0574
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 0578
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0582
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0583
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 0584
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0586
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0587
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0590
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0591
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 0592
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0593
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0596
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0600
+ 6 questões corretas, 41 questões incorretas e 13 questões em branco.
+Nota: 12
+
+Prova do aluno de registro: 0601
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 0602
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0603
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 0605
+ 6 questões corretas, 54 questões incorretas e  0 questões em branco.
+Nota: 12
+
+Prova do aluno de registro: 0606
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0607
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0608
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0609
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0610
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0611
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0613
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 0614
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0616
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 0617
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0618
+18 questões corretas, 42 questões incorretas e  0 questões em branco.
+Nota: 36
+
+Prova do aluno de registro: 0619
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0620
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0624
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0625
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0627
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0629
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0631
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0632
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0634
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0637
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0640
+ 7 questões corretas, 44 questões incorretas e  9 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 0641
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0642
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0643
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0644
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0645
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 0647
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0648
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0650
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 0654
+18 questões corretas, 42 questões incorretas e  0 questões em branco.
+Nota: 36
+
+Prova do aluno de registro: 0655
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0660
+12 questões corretas, 40 questões incorretas e  8 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0662
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0666
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0670
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0671
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0672
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0673
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0679
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0681
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0683
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0687
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0689
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0691
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0693
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 0694
+18 questões corretas, 42 questões incorretas e  0 questões em branco.
+Nota: 36
+
+Prova do aluno de registro: 0699
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0700
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0701
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0702
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0704
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0705
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0706
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0707
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0709
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 0711
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0712
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0713
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0714
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0715
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0716
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0718
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0720
+13 questões corretas, 41 questões incorretas e  6 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0721
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0722
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 0725
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 0727
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 0728
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0729
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0730
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0731
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 0733
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0737
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0740
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0743
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0745
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 0747
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0748
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0749
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0750
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0752
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0753
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0755
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0756
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0757
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0759
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0760
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0762
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 0763
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0764
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0768
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0770
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0778
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0779
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0783
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0784
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 0785
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0786
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0788
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0790
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0791
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0793
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 0794
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0797
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0800
+10 questões corretas, 46 questões incorretas e  4 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0801
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 0802
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0806
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0808
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0809
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0824
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 0825
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0826
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0833
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0836
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 0839
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0840
+12 questões corretas, 37 questões incorretas e 11 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0841
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0843
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0844
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0845
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0849
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0850
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0851
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0853
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0854
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0855
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0856
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0859
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0861
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0862
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0863
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 0864
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0868
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0870
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0872
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0876
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0878
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0881
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0882
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 0885
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0886
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0887
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0891
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0894
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 0902
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 0905
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0907
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0911
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0914
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0916
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0918
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0919
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0921
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0926
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0927
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 0929
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0930
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0932
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0934
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0938
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0939
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0941
+19 questões corretas, 41 questões incorretas e  0 questões em branco.
+Nota: 38
+
+Prova do aluno de registro: 0942
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0945
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0949
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0952
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0953
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0956
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 0958
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0959
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0962
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0965
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0967
+20 questões corretas, 40 questões incorretas e  0 questões em branco.
+Nota: 40
+
+Prova do aluno de registro: 0971
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0972
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0974
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 0976
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0977
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0978
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0980
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0981
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0987
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0988
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 0989
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 0990
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 0993
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0995
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 0997
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 0999
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1000
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1001
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1007
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1008
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1010
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1011
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1018
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1021
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 1022
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1023
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 1027
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 1028
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 1029
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1030
+ 6 questões corretas, 54 questões incorretas e  0 questões em branco.
+Nota: 12
+
+Prova do aluno de registro: 1031
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1032
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1033
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 1034
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1037
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1038
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 1039
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 1040
+13 questões corretas, 42 questões incorretas e  5 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1041
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 1043
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1045
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1047
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1048
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1054
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1055
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1058
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1060
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1061
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1066
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1070
+ 6 questões corretas, 54 questões incorretas e  0 questões em branco.
+Nota: 12
+
+Prova do aluno de registro: 1072
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1077
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 1078
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1079
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1080
+ 8 questões corretas, 44 questões incorretas e  8 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 1081
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1084
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1085
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1086
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1087
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1089
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1090
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1091
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 1094
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1095
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1097
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1099
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1100
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 1101
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1105
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1106
+ 6 questões corretas, 54 questões incorretas e  0 questões em branco.
+Nota: 12
+
+Prova do aluno de registro: 1109
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1112
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 1113
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1115
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1116
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1117
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1118
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1119
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1123
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1124
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1125
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1130
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1131
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1133
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1135
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 1137
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 1139
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1141
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 1142
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1143
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 1147
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 1148
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1152
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1155
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1156
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1157
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1158
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1159
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1161
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1163
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1164
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1166
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 1167
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1168
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 1169
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1170
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1172
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1174
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1175
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1176
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1178
+ 5 questões corretas, 55 questões incorretas e  0 questões em branco.
+Nota: 10
+
+Prova do aluno de registro: 1179
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1181
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1183
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1185
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1186
+18 questões corretas, 42 questões incorretas e  0 questões em branco.
+Nota: 36
+
+Prova do aluno de registro: 1187
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1188
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1189
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1190
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1192
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1193
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1194
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1195
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1196
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1199
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1202
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1204
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1205
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1206
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1207
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1208
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1211
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1212
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1216
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1218
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1219
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1222
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1223
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1224
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1226
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1227
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 1228
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 1229
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1232
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 1233
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1234
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1235
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1236
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1241
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1242
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1244
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1245
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1247
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1248
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1250
+ 6 questões corretas, 54 questões incorretas e  0 questões em branco.
+Nota: 12
+
+Prova do aluno de registro: 1255
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1256
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1257
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1259
+21 questões corretas, 39 questões incorretas e  0 questões em branco.
+Nota: 42
+
+Prova do aluno de registro: 1263
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 1264
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1265
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1267
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1268
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1270
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1271
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1279
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1283
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1286
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1287
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1288
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1289
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1291
+18 questões corretas, 42 questões incorretas e  0 questões em branco.
+Nota: 36
+
+Prova do aluno de registro: 1292
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1293
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1295
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1297
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1300
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1302
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1305
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1307
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1309
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1311
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1313
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1314
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1316
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1319
+ 6 questões corretas, 54 questões incorretas e  0 questões em branco.
+Nota: 12
+
+Prova do aluno de registro: 1320
+ 9 questões corretas, 39 questões incorretas e 12 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1323
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1324
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1325
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1326
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1327
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 1328
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1330
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1331
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 1332
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1335
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1338
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 1339
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1340
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1343
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1344
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1345
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1346
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1348
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1349
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1350
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1353
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1354
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1355
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 1357
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1358
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1359
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1362
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1364
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 1365
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1367
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1368
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 1369
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1371
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1372
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 1374
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1377
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1379
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1380
+10 questões corretas, 43 questões incorretas e  7 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1382
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1384
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1385
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1386
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1388
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1390
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1394
+18 questões corretas, 42 questões incorretas e  0 questões em branco.
+Nota: 36
+
+Prova do aluno de registro: 1395
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1396
+ 6 questões corretas, 54 questões incorretas e  0 questões em branco.
+Nota: 12
+
+Prova do aluno de registro: 1398
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1399
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1400
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1405
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1406
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 1408
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1416
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1417
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 1419
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1423
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1430
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 1431
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1432
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1434
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1439
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1440
+ 8 questões corretas, 46 questões incorretas e  6 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 1442
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1443
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1444
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1445
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1446
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1448
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1452
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1453
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1454
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1456
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1457
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1459
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1460
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 1462
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1465
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1467
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1469
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1472
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1474
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1475
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 1477
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1478
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 1480
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1482
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1484
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1485
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1486
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1487
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 1489
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1492
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1493
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1494
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1498
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1503
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1507
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1509
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1511
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1514
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1517
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1519
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1520
+11 questões corretas, 45 questões incorretas e  4 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1521
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1523
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1524
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1527
+18 questões corretas, 42 questões incorretas e  0 questões em branco.
+Nota: 36
+
+Prova do aluno de registro: 1530
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1534
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1535
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 1537
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1538
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 1539
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1540
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 1543
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1544
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1545
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 1546
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1548
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1549
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1551
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1553
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1554
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1560
+ 7 questões corretas, 42 questões incorretas e 11 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 1562
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1563
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1564
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1568
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1571
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1574
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1576
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1578
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1583
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1584
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1585
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1590
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1594
+18 questões corretas, 42 questões incorretas e  0 questões em branco.
+Nota: 36
+
+Prova do aluno de registro: 1595
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 1597
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1598
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1600
+ 9 questões corretas, 44 questões incorretas e  7 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1602
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 1603
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1609
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1610
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1611
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1613
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1615
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1617
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1620
+11 questões corretas, 39 questões incorretas e 10 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1623
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1625
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1626
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 1627
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1628
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1629
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1630
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1631
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1634
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1641
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 1642
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1644
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1648
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1652
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1654
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1655
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1657
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1660
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 1661
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1662
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1664
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1666
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1667
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1669
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 1670
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1672
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1674
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1676
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1678
+18 questões corretas, 42 questões incorretas e  0 questões em branco.
+Nota: 36
+
+Prova do aluno de registro: 1682
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1685
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1687
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1688
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1689
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1694
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1695
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1696
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1697
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 1698
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1699
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1700
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1701
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1703
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1706
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1707
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1712
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 1713
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1715
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 1716
+18 questões corretas, 42 questões incorretas e  0 questões em branco.
+Nota: 36
+
+Prova do aluno de registro: 1717
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1718
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1719
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1731
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1732
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1733
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1734
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1735
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 1736
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1738
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1740
+11 questões corretas, 41 questões incorretas e  8 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1742
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1744
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1746
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1748
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1753
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1756
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1760
+11 questões corretas, 44 questões incorretas e  5 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1762
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1763
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1765
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1767
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1768
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1772
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 1773
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1774
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1777
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 1778
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1779
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1782
+17 questões corretas, 43 questões incorretas e  0 questões em branco.
+Nota: 34
+
+Prova do aluno de registro: 1783
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1785
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1789
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 1790
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1791
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1793
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1796
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1797
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1801
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1802
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1803
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1806
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1807
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1808
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1809
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1810
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1813
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1814
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1816
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1817
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 1819
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1823
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1824
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1825
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1827
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1829
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1832
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1834
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1838
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1839
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1840
+13 questões corretas, 40 questões incorretas e  7 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1841
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 1842
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1844
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1845
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1846
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1847
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1849
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1851
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1852
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1853
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 1854
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1856
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1860
+12 questões corretas, 41 questões incorretas e  7 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1861
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1862
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1863
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1864
+19 questões corretas, 41 questões incorretas e  0 questões em branco.
+Nota: 38
+
+Prova do aluno de registro: 1866
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 1867
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1868
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 1869
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1873
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1878
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1879
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1880
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 1882
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 1884
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1886
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1892
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1893
+18 questões corretas, 42 questões incorretas e  0 questões em branco.
+Nota: 36
+
+Prova do aluno de registro: 1894
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1895
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1896
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1902
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1903
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1904
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1905
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1906
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1909
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1914
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1916
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1922
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1923
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 1924
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1925
+ 9 questões corretas, 51 questões incorretas e  0 questões em branco.
+Nota: 18
+
+Prova do aluno de registro: 1927
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1929
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1930
+ 8 questões corretas, 52 questões incorretas e  0 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 1932
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1933
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1935
+ 7 questões corretas, 53 questões incorretas e  0 questões em branco.
+Nota: 14
+
+Prova do aluno de registro: 1936
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1938
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1940
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1944
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1945
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1946
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1947
+16 questões corretas, 44 questões incorretas e  0 questões em branco.
+Nota: 32
+
+Prova do aluno de registro: 1951
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1952
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1956
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1959
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1961
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1962
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1968
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1969
+13 questões corretas, 47 questões incorretas e  0 questões em branco.
+Nota: 26
+
+Prova do aluno de registro: 1972
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1973
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1974
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1975
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1978
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1979
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1980
+ 8 questões corretas, 47 questões incorretas e  5 questões em branco.
+Nota: 16
+
+Prova do aluno de registro: 1981
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1982
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1983
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1984
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1985
+15 questões corretas, 45 questões incorretas e  0 questões em branco.
+Nota: 30
+
+Prova do aluno de registro: 1987
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1989
+14 questões corretas, 46 questões incorretas e  0 questões em branco.
+Nota: 28
+
+Prova do aluno de registro: 1990
+11 questões corretas, 49 questões incorretas e  0 questões em branco.
+Nota: 22
+
+Prova do aluno de registro: 1991
+12 questões corretas, 48 questões incorretas e  0 questões em branco.
+Nota: 24
+
+Prova do aluno de registro: 1992
+19 questões corretas, 41 questões incorretas e  0 questões em branco.
+Nota: 38
+
+Prova do aluno de registro: 1995
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Prova do aluno de registro: 1998
+10 questões corretas, 50 questões incorretas e  0 questões em branco.
+Nota: 20
+
+Total de candidatos: 1014
+Média geral: 23.949
