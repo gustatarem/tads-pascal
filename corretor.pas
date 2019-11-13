@@ -16,7 +16,7 @@ Begin
 		writeln('Qual prova deseja corrigir? (1 ou 2)');
 		readln(option);
 		if (not(option = '1') and not(option = '2')) then
-			writeln('Erro: opção inválida');
+			writeln('Erro: opÃ§Ã£o invÃ¡lida');
 	until ((option = '1') or (option = '2'));
 	
 	assign(examfile, concat('prova', option, '.txt'));
@@ -31,11 +31,11 @@ Begin
 	for index := 0 to 59 do
 		begin
 			repeat
-				write('Resposta da questão ', index + 1, ': ');
+				write('Resposta da questï¿½o ', index + 1, ': ');
 				readln(answer);
 				answer := upCase(answer);
 				if (answer < 'A') or (answer > 'E') then
-					writeln('Erro: opção inválida');
+					writeln('Erro: opÃ§Ã£o invÃ¡lida');
 			until ((answer >= 'A') and (answer <= 'E'));
 			answerkey[index] := answer;
 		end;
@@ -66,17 +66,17 @@ Begin
 			score := correct * 2;
 			average := average + score;
 			writeln('Prova do aluno de registro: ', register[1], register[2], register[3], register[4]);
-			writeln(correct:2:0, ' questões corretas, ', wrong:2:0, ' questões incorretas e ', blank:2:0, ' questões em branco.');
+			writeln(correct:2:0, ' questÃµes corretas, ', wrong:2:0, ' questÃµes incorretas e ', blank:2:0, ' questÃµes em branco.');
 			writeln('Nota: ', score);
 			
 			write(resultsfile, concat('Prova do aluno de registro: ', register[1], register[2], register[3], register[4]));
 			writeln(resultsfile);
 			write(resultsfile, correct:2:0);
-			write(resultsfile, ' questões corretas, ');
+			write(resultsfile, ' questÃµes corretas, ');
 			write(resultsfile, wrong:2:0);
-			write(resultsfile, ' questões incorretas e ');
+			write(resultsfile, ' questÃµes incorretas e ');
 			write(resultsfile, blank:2:0);
-			write(resultsfile, ' questões em branco.');
+			write(resultsfile, ' questÃµes em branco.');
 			writeln(resultsfile);
 			write(resultsfile, 'Nota: ');
 			write(resultsfile, score);
@@ -91,12 +91,12 @@ Begin
 	average := average / counter;
 	
 	writeln('Total de candidatos: ', counter);
-	writeln('Média geral: ', average:3:3);
+	writeln('MÃ©dia geral: ', average:3:3);
 	
 	write(resultsfile, 'Total de candidatos: ');
 	write(resultsfile, counter);
 	writeln(resultsfile);
-	write(resultsfile, 'Média geral: ');
+	write(resultsfile, 'MÃ©dia geral: ');
 	write(resultsfile, average:3:3); 
 		
 	close(examfile);
