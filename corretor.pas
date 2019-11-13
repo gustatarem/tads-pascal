@@ -1,39 +1,39 @@
 Program corretor;
 
 var option, answer: char;
-		examfile, resultsfile: text;
-		answerkey: string[60];
-		register: string[64];
-		index, counter, score, correct, wrong, blank: integer;
-		average: real;
+  examfile, resultsfile: text;
+  answerkey: string[60];
+  register: string[64];
+  index, counter, score, correct, wrong, blank: integer;
+ average: real;
 		
 Begin
 
-	assign(resultsfile, 'results.txt');
-	rewrite(resultsfile);
+assign(resultsfile, 'results.txt');
+rewrite(resultsfile);
 
-	repeat
-		writeln('Qual prova deseja corrigir? (1 ou 2)');
-		readln(option);
-		if (not(option = '1') and not(option = '2')) then
-			writeln('Erro: opção inválida');
-	until ((option = '1') or (option = '2'));
+repeat
+  writeln('Qual prova deseja corrigir? (1 ou 2)');
+  readln(option);
+  if (not(option = '1') and not(option = '2')) then
+    writeln('Erro: opção inválida');
+until ((option = '1') or (option = '2'));
 	
-	assign(examfile, concat('prova', option, '.txt'));
-	reset(examfile);
+assign(examfile, concat('prova', option, '.txt'));
+reset(examfile);
 	
-	write(resultsfile, 'Resultados da prova: ');
-	write(resultsfile, option);
-	writeln(resultsfile);
-	writeln(resultsfile);
+write(resultsfile, 'Resultados da prova: ');
+write(resultsfile, option);
+writeln(resultsfile);
+writeln(resultsfile);
 			 
-	writeln('Digite o gabarito da prova ');
-	for index := 0 to 59 do
-		begin
-			repeat
-				write('Resposta da quest�o ', index + 1, ': ');
-				readln(answer);
-				answer := upCase(answer);
+writeln('Digite o gabarito da prova ');
+for index := 0 to 59 do
+  begin
+    repeat
+      write('Resposta da quest�o ', index + 1, ': ');
+      readln(answer);
+      answer := upCase(answer);
 				if (answer < 'A') or (answer > 'E') then
 					writeln('Erro: opção inválida');
 			until ((answer >= 'A') and (answer <= 'E'));
@@ -100,10 +100,7 @@ Begin
 	write(resultsfile, average:3:3); 
 		
 	close(examfile);
-	close(resultsfile);
-	
-	
-									
+	close(resultsfile);									
 				
 	readln();
   
